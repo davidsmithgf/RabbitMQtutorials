@@ -1,3 +1,5 @@
+# RabbitMQtutorials demo code
+
 How to use: csc /r:RabbitMQ.Client.dll XXX.cs
 
 http://www.rabbitmq.com/getstarted.html
